@@ -1,0 +1,5 @@
+Feedback:
+GO
+
+Suggesties:
+NEOPIXELS inplaats van rgb-led strip
